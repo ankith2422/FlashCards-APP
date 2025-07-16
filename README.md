@@ -10,6 +10,14 @@ A very basic React Native Flashcards app with two screens:
 - Uses AsyncStorage for persistent storage
 - FlatList for displaying flashcards
 
+## Screenshots
+<p align='center'>
+<img src="1.jpg" alt="App Screenshots" width="100%" />
+   <img src="1.jpg" alt="App Screenshots" width="100%" />
+   <img src="1.jpg" alt="App Screenshots" width="100%" />
+   <img src="1.jpg" alt="App Screenshots" width="100%" />
+</p>p>
+
 ## How to Run
 
 1. Install dependencies:
