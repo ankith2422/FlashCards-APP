@@ -13,9 +13,9 @@ A very basic React Native Flashcards app with two screens:
 ## Screenshots
 <p align='center'>
 <img src="1.jpg" alt="App Screenshots" width="100%" />
-   <img src="1.jpg" alt="App Screenshots" width="100%" />
-   <img src="1.jpg" alt="App Screenshots" width="100%" />
-   <img src="1.jpg" alt="App Screenshots" width="100%" />
+   <img src="2.jpg" alt="App Screenshots" width="100%" />
+   <img src="3.jpg" alt="App Screenshots" width="100%" />
+   <img src="4.jpg" alt="App Screenshots" width="100%" />
 </p>p>
 
 ## How to Run
