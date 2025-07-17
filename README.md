@@ -27,7 +27,7 @@ A very basic React Native Flashcards app with two screens:
 | Ankith | [@ankith2422](https://github.com/ankith2422) | ankithpitta2209@gmail.com |
 | Srivatsa | [@srivatsa2512](https://github.com/srivatsa2512) | srivatsa2512@gmail.com |
 | Naresh | [@Bnaresh6752](https://github.com/Bnaresh6752) | bacchunareshkumar0@gmail.com |
-| Naresh | [@Bnaresh6752](https://github.com/Bnaresh6752) | bacchunareshkumar0@gmail.com |
+| Venu | [JNagavenu](https://github.com/JNagavenu) | jnagavenuyadav@gmail.com |
 
 ---
 
